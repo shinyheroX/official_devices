@@ -3,6 +3,15 @@
       "codename":"X00TD",
       "brand":"Asus",
       "name":"Zenfone Max Pro M1",
-      "supported_version":[ "ten" ]
+      "supported_version":[ "ten" ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 636",
+            "ram":"3/4GB LPDDR4X",
+            "display":"IPS 5.99\" 1080p",
+            "battery":5000,
+            "camera":"13Mpx 5Mpx + 5Mpx"
+         }
+      ]
    }
 ]
