@@ -1,0 +1,10 @@
+{
+   "maintainer_name":"Subins Mani",
+   "maintainer_url":"https://forum.xda-developers.com/member.php?u=7868666",
+   "xda_thread":"https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-pixysos-t3890672",
+   "builds":[
+      {
+         "file_name":"PixysOS-v3.0.0-X00TD-OFFICIAL-20190921-084905.zip"
+      }
+   ]
+}
