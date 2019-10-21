@@ -3,7 +3,8 @@
       "codename":"X00TD",
       "brand":"Asus",
       "name":"Zenfone Max Pro M1",
-      "supported_version":[ "ten" ],
+      "device_tree":"device_asus_X00TD",
+      "supported_version":[ "ten", "ten_gapps" ],
       "specs":[
          {
             "cpu":"Snapdragon 636",
