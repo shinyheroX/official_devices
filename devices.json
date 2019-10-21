@@ -15,4 +15,20 @@
          }
       ]
    }
+   {
+      "codename":"rosy",
+      "brand":"Xiaomi",
+      "name":"Redmi 5",
+      "device_tree":"device_xiaomi_rosy",
+      "supported_version":[ "ten", "ten_gapps" ],
+      "specs":[
+         {
+            "cpu":"Snapdragon 450",
+            "ram":"2/3/4GB LPDDR4X",
+            "display":"IPS 5.70\" 1080p",
+            "battery":3300,
+            "camera":"12Mpx + 5Mpx"
+         }
+      ]
+   }
 ]
